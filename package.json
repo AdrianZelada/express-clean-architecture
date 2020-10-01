@@ -1,0 +1,22 @@
+{
+  "name": "clean-architecture-ts-v2",
+  "version": "1.0.0",
+  "description": "node clean quickstart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AdrianZelada/express-clean-architecture.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Adrian Pedro Zelada Torrez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdrianZelada/express-clean-architecture/issues"
+  },
+  "homepage": "https://github.com/AdrianZelada/express-clean-architecture#readme"
+}
